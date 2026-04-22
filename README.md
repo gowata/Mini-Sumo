@@ -5,10 +5,10 @@
 </p>
 <p align="center">
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
     
 <div>
-[INSTAGRAM]: https://img.shields.io/badge/Simple_Frontend-000?style=for-the-badge&logo=html
+[INSTAGRAM]: [https://img.shields.io/badge/Simple_Frontend-000?style=for-the-badge&logo=html](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 [GITHUB]: https://img.shields.io/badge/Simple_Backend-000?style=for-the-badge&logo=code
 
 [![instagram][INSTAGRAM]](href="https://Instagram.com/spark.etecapan.robotica)
