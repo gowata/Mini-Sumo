@@ -12,6 +12,9 @@
 - 22/04/2026 - Adicionado o arquivo do ESP32 placa Roxy Rev1 (Placa roxa)
 Este arquivo é o firmware da placa Roxy ESP32 de 30 pinos.
 
+O Tutorial de montagem da placa se encontra no youtube.
+https://youtu.be/tThVYhhXF1Y?si=6enKzF1GMnJF_ZG6
+
 Ele é utilizado em conjunto com o app 
 https://bluetooth-rc-controller.br.aptoide.com/app
 
