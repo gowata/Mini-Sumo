@@ -1,5 +1,4 @@
-# Repositório de arquivos de mini sumô - Etec Armando Pannunzio
-
+# Repositório de arquivos de mini sumô - Spark Team
 <p align="center">
     <img src="./Images/spark.png" width="400px">
 </p>
