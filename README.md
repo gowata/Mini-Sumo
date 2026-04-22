@@ -1,7 +1,7 @@
 # Repositório de arquivos de mini sumô - Etec Armando Pannunzio
 
 <p align="center">
-    <img src="./spark.png" width="400px">
+    <img src="./Images/spark.png" width="400px">
 </p>
 
 <p align="center">
