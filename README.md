@@ -28,8 +28,8 @@
     
 [GITHUB]: https://img.shields.io/badge/Simple_Backend-000?style=for-the-badge&logo=code
 
-[![instagram][INSTAGRAM]](href="https://Instagram.com/spark.etecapan.robotica)
-[![github][GITHUB]](href="https://Github.com/gowata">GitHub</a>)
+[![instagram][INSTAGRAM]](https://Instagram.com/spark.etecapan.robotica)
+[![github][GITHUB]](https://Github.com/gowata)
 
 </div>
 
