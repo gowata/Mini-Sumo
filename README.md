@@ -4,6 +4,8 @@
     <img src="./Images/spark.png" width="400px">
 </p>
 
+Siga-nos no instagram: @spark.etecapan.robotica
+
 <p align="center">
 <b>Este repositório faz parte do projeto de robótica da equipe Spark da ETEC Apan 🚀👩‍💻</b>
 </p>
