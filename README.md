@@ -23,7 +23,9 @@
 </div>
     
 <div>
+
 [INSTAGRAM]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+    
 [GITHUB]: https://img.shields.io/badge/Simple_Backend-000?style=for-the-badge&logo=code
 
 [![instagram][INSTAGRAM]](href="https://Instagram.com/spark.etecapan.robotica)
