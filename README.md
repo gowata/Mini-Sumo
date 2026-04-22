@@ -4,7 +4,8 @@
     <img src="./Images/spark.png" width="400px">
 </p>
 <p align="center">
-    
+
+<p align="center">    
 <div>
 
 [INSTAGRAM]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
@@ -14,7 +15,7 @@
 [![github][GITHUB]](https://Github.com/gowata)
 
 </div>
-
+</p>
 
 <p align="center">
 <b>Este repositório faz parte do projeto de robótica da equipe Spark da ETEC Apan 🚀👩‍💻</b>
