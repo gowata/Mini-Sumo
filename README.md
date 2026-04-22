@@ -7,7 +7,12 @@
 
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
     
-<div class="apresentacao__links">
+<div>
+[INSTAGRAM]: https://img.shields.io/badge/Simple_Frontend-000?style=for-the-badge&logo=html
+[GITHUB]: https://img.shields.io/badge/Simple_Backend-000?style=for-the-badge&logo=code
+
+[![instagram][INSTAGRAM]](href="https://Instagram.com/spark.etecapan.robotica)
+[![github][GITHUB]](href="https://Github.com/gowata">GitHub</a>)
                 <a class="apresetacao__links__link" href="https://Instagram.com/spark.etecapan.robotica">Instagram</a>
                 <a class="apresetacao__links__link" href="https://Github.com/gowata">GitHub</a>
 </div>
