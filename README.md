@@ -4,13 +4,13 @@
     <img src="./Images/spark.png" width="400px">
 </p>
 <p align="center">
-<b>Siga-nos no instagram: @spark.etecapan.robotica</b>
-</p>
-
 <div class="apresentacao__links">
                 <a class="apresetacao__links__link" href="https://Instagram.com/off_fabiana">Instagram</a>
                 <a class="apresetacao__links__link" href="https://Github.com/fabianavitoria">GitHub</a>
 </div>
+</p>
+
+
 
 <p align="center">
 <b>Este repositório faz parte do projeto de robótica da equipe Spark da ETEC Apan 🚀👩‍💻</b>
