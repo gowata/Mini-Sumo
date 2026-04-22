@@ -14,12 +14,6 @@
 [MINIMALIST__BADGE]: https://img.shields.io/badge/Minimalist-AB0080?style=for-the-badge&logo=badge
 [PROFILE]: https://img.shields.io/badge/Profile-A8AB00?style=for-the-badge&logo=badge
 
-[![backend-simple][SIMPLE_BACK__BADGE]](./simple/backend.md)
-[![frontend-simple][SIMPLE_FRONT__BADGE]](./simple/frontend.md)
-[![frontend-badges][BADGES_FRONT__BADGE]](./badges/frontend.md)
-[![backend-badges][BADGES_BACK__BADGE]](./badges/backend.md)
-[![minimalist][MINIMALIST__BADGE]](./minimalist/readme.md)
-[![profile][profile]](./profile/example-1.md)
 
 </div>
     
