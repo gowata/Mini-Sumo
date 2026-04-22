@@ -5,8 +5,8 @@
 </p>
 <p align="center">
 <div class="apresentacao__links">
-                <a class="apresetacao__links__link" href="https://Instagram.com/off_fabiana">Instagram</a>
-                <a class="apresetacao__links__link" href="https://Github.com/fabianavitoria">GitHub</a>
+                <a class="apresetacao__links__link" href="https://Instagram.com/spark.etecapan.robotica">Instagram</a>
+                <a class="apresetacao__links__link" href="https://Github.com/gowata">GitHub</a>
 </div>
 </p>
 
