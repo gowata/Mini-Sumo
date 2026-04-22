@@ -6,7 +6,7 @@
 <p align="center">
 <b>Siga-nos no instagram: @spark.etecapan.robotica</b>
 </p>
-
+[![Instagram](https://shields.io)](https://instagram.com)
 <p align="center">
 <b>Este repositório faz parte do projeto de robótica da equipe Spark da ETEC Apan 🚀👩‍💻</b>
 </p>
